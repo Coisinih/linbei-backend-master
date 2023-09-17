@@ -1,0 +1,9 @@
+
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ò„ºúþÿÿÿÿ8ß¸‡”ª1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ô£ÙŠ8¬©‰”ª1
+b
+java:S3252"GUse static access with "com.alibaba.excel.EasyExcelFactory" for "read".(è¤ê»úÿÿÿÿ
+b
+java:S3252("GUse static access with "com.alibaba.excel.EasyExcelFactory" for "read".(ÿ³õýÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(˜¢á§ùÿÿÿÿ
